@@ -1,0 +1,9 @@
+../Core/Src/graphicsDisplay.c:69:6:graphicsDisplayInit	24	static
+../Core/Src/graphicsDisplay.c:91:6:writeCommand	16	static
+../Core/Src/graphicsDisplay.c:97:6:SPI_write16	24	static
+../Core/Src/graphicsDisplay.c:104:6:setAddrWindow	32	static
+../Core/Src/graphicsDisplay.c:115:6:writeInplace	24	static
+../Core/Src/graphicsDisplay.c:122:6:writePixel	32	static
+../Core/Src/graphicsDisplay.c:128:6:printPicture	32	static
+../Core/Src/graphicsDisplay.c:141:6:resetDistributedPP	4	static
+../Core/Src/graphicsDisplay.c:145:6:distributedPrintPicture	32	static
